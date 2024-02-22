@@ -1,5 +1,5 @@
 Portuguese:
-﻿﻿﻿# Exemplo de utilização do módulo Batch do Spring  
+﻿# Exemplo de utilização do módulo Batch do Spring  
 
 Exemplo de Aplicação Java usando o módulo Batch do Spring Framework  
 
